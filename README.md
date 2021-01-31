@@ -11,6 +11,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepali-digit-recognizer&theme=dark&show_owner=true)](https://github.com/samirkhanal35/Nepali-digit-recognizer)
 
+<img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/6rS7.gif">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepalireader&theme=dark&show_owner=true)](https://github.com/samirkhanal35/Nepalireader)
 
 
