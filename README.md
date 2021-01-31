@@ -1,9 +1,8 @@
-# Hi There !
- <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/source.gif" width="100">  
+# Hi There ! <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/source.gif" width="100">  
 
-# I am Samir Khanal
-<img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/75lD.gif"> 
- ### Software Developer At PrismaSofts.
+# I am Samir Khanal <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/75lD.gif"> 
+ 
+### Software Developer At PrismaSofts.
 
 [![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirkhanal35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
