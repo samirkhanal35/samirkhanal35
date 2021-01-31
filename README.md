@@ -1,6 +1,6 @@
 # Hi There ! <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/source.gif" width="100">  
 
-# I am Samir Khanal <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/75lD.gif">   Software Developer At PrismaSofts.
+# I am Samir Khanal <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/75lD.gif"><br/> Software Developer At PrismaSofts
  
 
 
