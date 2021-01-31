@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhanal35&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepali-digit-recognizer&theme=dark)](https://github.com/samirkhanal35/Nepali-digit-recognizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepali-digit-recognizer&theme=dark&show_owner=true)](https://github.com/samirkhanal35/Nepali-digit-recognizer)
