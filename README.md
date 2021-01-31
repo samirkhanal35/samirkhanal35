@@ -9,4 +9,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepali-digit-recognizer&theme=dark&show_owner=true)](https://github.com/samirkhanal35/Nepali-digit-recognizer)
 
-![](https://img.shields.io/badge/Python-sample-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-sample-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
