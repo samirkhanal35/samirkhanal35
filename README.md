@@ -2,7 +2,7 @@
 # I am Samir Khanal
 ### Software Developer At PrismaSofts.
 
-### <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/anonymous.jpg" width="400px>  
+! <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/anonymous.jpg" width="400px>  
 
 [![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirkhanal35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
