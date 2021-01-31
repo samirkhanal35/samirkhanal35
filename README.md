@@ -1,3 +1,3 @@
-### Hi there! &#U+1F600 &#U+1F44B; 
+### Hi there! 👋 
 I am Samir Khanal
 
