@@ -10,7 +10,7 @@
 You can find me on 
 <a href="https://samirkhanal35.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/samir-khanal-4b9863113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/samir.khanal.5851/"><img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/facebook.png" width="20"></a>
+<a href="https://www.facebook.com/samir.khanal.5851/"><img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/iconfinder_83-facebook_4202110.png" width="20"></a>
 
 </div>
 
