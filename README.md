@@ -1,3 +1,4 @@
+<div align="center">
 # Hi There  ! <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/source.gif" width="100"> 
 
 # I am Samir Khanal 
@@ -28,4 +29,4 @@ You can find me on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=cartoonize-sketch-flask&theme=dark&show_owner=true)](https://github.com/samirkhanal35/cartoonize-sketch-flask)
 
-
+</div>
