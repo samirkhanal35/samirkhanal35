@@ -8,9 +8,9 @@
 <!-- social links -->
 <div align="center">
 You can find me on 
-<a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white">](https://samirkhanal35.medium.com/)</a>
-<a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/samir-khanal-4b9863113/)</a>
- <a>[<img src="http://i.imgur.com/P3YfQoD.png">](https://www.facebook.com/samir.khanal.5851/)</a>
+<a href="https://samirkhanal35.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/samir-khanal-4b9863113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/samir.khanal.5851/"><img src="http://i.imgur.com/P3YfQoD.png"></a>
 
 </div>
 
