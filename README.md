@@ -1,6 +1,6 @@
 # Hi There 
 
-# I am Samir Khanal <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/75lD.gif">
+# I am Samir Khanal 
  
 You can find me on 
 
