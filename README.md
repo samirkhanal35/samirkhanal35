@@ -1,12 +1,19 @@
-# Hi There 
+# Hi There  ! <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/source.gif" width="100"> 
 
 # I am Samir Khanal 
  
+
+</div>
+
+<!-- social links -->
+<div align="center">
 You can find me on 
+<a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white">](https://samirkhanal35.medium.com/)</a>
+<a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/samir-khanal-4b9863113/)</a>
+ <a>[<img src="http://i.imgur.com/P3YfQoD.png">](https://www.facebook.com/samir.khanal.5851/)</a>
 
-[1.1]: <img src="https://github.com/samirkhanal35/samirkhanal35/blob/main/6rS7.gif">
+</div>
 
-[1]: https://www.facebook.com/samir.khanal.5851/
 
 
 [![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirkhanal35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +23,6 @@ You can find me on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepali-digit-recognizer&theme=dark&show_owner=true)](https://github.com/samirkhanal35/Nepali-digit-recognizer)
 
-cc
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=Nepalireader&theme=dark&show_owner=true)](https://github.com/samirkhanal35/Nepalireader)
 
