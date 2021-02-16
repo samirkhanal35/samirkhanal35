@@ -16,7 +16,8 @@ You can find me on
 </div>
 <br>
 
-[![Samir Khanal's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirkhanal35)](https://github.com/anuraghazra/github-readme-stats)
+[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirkhanal35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhanal35&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
