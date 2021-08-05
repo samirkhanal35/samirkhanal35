@@ -30,4 +30,6 @@ You can find me on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=cartoonize-sketch-flask&theme=dark&show_owner=true)](https://github.com/samirkhanal35/cartoonize-sketch-flask)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirkhanal35&repo=image-processig&theme=dark&show_owner=true)](https://github.com/samirkhanal35/image-processig)
+
 </div>
